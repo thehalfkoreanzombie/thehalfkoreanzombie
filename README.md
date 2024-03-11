@@ -4,8 +4,30 @@ I am a data engineer hailing from Vancouver, WA. I graduated with a BA in psycho
 
 - Feel free to reach me at thehalfkoreanzombie@gmail.com. I look forward to any and all inquiries!
 
-## Technologies
+### Technologies
 
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-lightgrey?style=flat&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)&nbsp;
+![Jinja](https://img.shields.io/badge/Jinja-green?style=flat&logo=jinja&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+![dbt](https://img.shields.io/badge/dbt-orange?style=flat&logo=dbt&logoColor=white)&nbsp; 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-yellow?style=flat&logo=apachespark&logoColor=white)&nbsp; 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-green?style=flat&logo=apacheairflow&logoColor=white)&nbsp; 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?style=flat&logo=googlecloud&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
+![Looker](https://img.shields.io/badge/Looker-purple?style=flat&logo=looker&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)&nbsp;
 ### Projects
 
 ### [MTG Deck Wizard](https://github.com/thehalfkoreanzombie/MTG-Deck-Wizard)
